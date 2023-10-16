@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mycompany.app-mergeDebugResources-5:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/sam/AndroidStudioProjects/BalloonTap/android/app/build/generated/corona_icons/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "/Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endColumns": "48",
+                        "endOffsets": "156"
+                    }
+                }
+            ]
+        }
+    ]
+}

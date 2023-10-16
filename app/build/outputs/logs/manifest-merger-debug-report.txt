@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+MERGED from [:plugin] /Users/sam/AndroidStudioProjects/BalloonTap/android/plugin/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:2:1-111:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/sam/.gradle/caches/transforms-3/bbcea9f90da93ad0941d767b615a4fb8/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:3:11-38
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:70-116
+	android:versionCode
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:1-12:12
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:4:11-41
+application
+ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:8:5-11:8
+MERGED from [:plugin] /Users/sam/AndroidStudioProjects/BalloonTap/android/plugin/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-9:19
+MERGED from [:plugin] /Users/sam/AndroidStudioProjects/BalloonTap/android/plugin/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-9:19
+MERGED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:33:5-109:19
+MERGED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:33:5-109:19
+	android:label
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:8:18-44
+	android:hardwareAccelerated
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:36:9-43
+	android:icon
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:37:9-43
+	android:enableOnBackInvokedCallback
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:35:9-52
+	tools:replace
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:10:9-37
+	android:name
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml:9:6-38
+		REJECTED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:34:9-61
+uses-sdk
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+MERGED from [:plugin] /Users/sam/AndroidStudioProjects/BalloonTap/android/plugin/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:plugin] /Users/sam/AndroidStudioProjects/BalloonTap/android/plugin/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:5:5-44
+MERGED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/sam/.gradle/caches/transforms-3/bbcea9f90da93ad0941d767b615a4fb8/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/sam/.gradle/caches/transforms-3/bbcea9f90da93ad0941d767b615a4fb8/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sam/AndroidStudioProjects/BalloonTap/android/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:7:5-9:35
+	android:glEsVersion
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:8:9-41
+	android:required
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:9:9-32
+queries
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:11:5-31:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:12:9-16:18
+action#android.intent.action.VIEW
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:13:13-65
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:13:21-62
+data
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:15:13-44
+	android:scheme
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:15:19-41
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:19:9-21:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:20:21-70
+intent#action:name:android.media.action.VIDEO_CAPTURE
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:22:9-24:18
+action#android.media.action.VIDEO_CAPTURE
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:23:21-70
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:image/*
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:26:9-30:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:27:21-69
+uses-library#org.apache.http.legacy
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:38:9-40:40
+	android:required
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:39:13-50
+activity#com.ansca.corona.CoronaActivity
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:42:9-52:20
+	android:exported
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:45:13-36
+	android:configChanges
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:44:13-94
+	android:icon
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:46:13-47
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:43:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:50:27-74
+activity#com.ansca.corona.CameraActivity
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:53:9-57:74
+	android:screenOrientation
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:56:13-49
+	android:configChanges
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:55:13-63
+	android:theme
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:57:13-71
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:54:13-59
+activity#com.ansca.corona.VideoActivity
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:58:9-61:74
+	android:configChanges
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:60:13-63
+	android:theme
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:61:13-71
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:59:13-58
+activity#com.ansca.corona.purchasing.StoreActivity
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:62:9-65:74
+	android:configChanges
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:64:13-74
+	android:theme
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:65:13-71
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:63:13-69
+activity#com.ansca.corona.notifications.OnNotificationReceiverActivity
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:66:9-72:74
+	android:excludeFromRecents
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:68:13-46
+	android:noHistory
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:70:13-37
+	android:exported
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:69:13-36
+	android:theme
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:72:13-71
+	android:taskAffinity
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:67:13-89
+provider#com.ansca.corona.storage.FileContentProvider
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:74:9-78:20
+	android:authorities
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:76:13-57
+	android:exported
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:77:13-36
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:75:13-72
+provider#com.ansca.corona.camera.FileProvider
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:79:9-87:20
+	android:grantUriPermissions
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:83:13-47
+	android:authorities
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:81:13-58
+	android:exported
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:82:13-37
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:80:13-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:84:13-86:54
+	android:resource
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:86:17-51
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:85:17-67
+service#com.ansca.corona.CoronaService
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:90:9-66
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:90:18-63
+receiver#com.ansca.corona.SystemStartupBroadcastReceiver
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:98:9-104:20
+	android:exported
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:100:13-37
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:99:13-75
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:101:13-103:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:102:17-79
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:102:25-76
+receiver#com.ansca.corona.notifications.AlarmManagerBroadcastReceiver
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:107:9-97
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:107:19-94
+receiver#com.ansca.corona.notifications.StatusBarBroadcastReceiver
+ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:108:9-94
+	android:name
+		ADDED from [:Corona:] /Users/sam/.gradle/caches/transforms-3/6ea1d14f8dae8cdf64e27815e0ee5b03/transformed/jetified-Corona/AndroidManifest.xml:108:19-91
